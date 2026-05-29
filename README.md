@@ -3,7 +3,8 @@
 
 An interactive, scroll-driven photo gallery built with vanilla JavaScript — no frameworks, no build step, no dependencies. A single self-contained HTML file featuring a continuous depth-based carousel, real-time caption editing, and full client-side persistence.
 
-<img width="529" height="303" alt="Screenshot 2026-05-28 at 11 43 05 PM" src="https://github.com/user-attachments/assets/3ece5fab-fd43-47bb-b9a3-4ee714396d64" />
+<img width="544" height="470" alt="Screenshot 2026-05-29 at 1 39 49 PM" src="https://github.com/user-attachments/assets/8bcd35b0-5e36-4f62-ad29-ba8d52be1798" />
+
 
 ## Highlights
 
